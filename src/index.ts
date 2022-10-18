@@ -1,5 +1,7 @@
 import 'bootstrap';
 
+//uj lista + sort by meret
+//gombok szűrésre
 
 let lista = [
     {
@@ -74,6 +76,8 @@ let lista = [
                     //talalat?.appendChild(card);
                     //talalat?.appendChild(cardBody);
                     
+                }else{
+                    //talalat inner html enek tisztitasa
                 }
 
             }

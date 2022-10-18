@@ -1,6 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 require("bootstrap");
+//uj lista + sort by meret
+//gombok szűrésre
 let lista = [
     {
         "nev": "Maxi Ultra",
@@ -57,6 +59,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     //talalat?.appendChild(div);
                     //talalat?.appendChild(card);
                     //talalat?.appendChild(cardBody);
+                }
+                else {
+                    //talalat inner html enek tisztitasa
                 }
             }
         }
