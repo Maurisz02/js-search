@@ -1,5 +1,7 @@
 #kereso{
     width: 50%;
     text-align: center;
+    justify-content: center;
+    margin: auto;
     height: 30px;
 }
